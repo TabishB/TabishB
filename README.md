@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Tabish!
 
-🚀 **Senior Software Engineer @Q-CTRL** | 🧩 **Distributed Systems Enthusiast** | ☕ **Fueled by Coffee & Pragmatism**
+🚀 **Founder @fission** | 🧩 **Distributed Systems Enthusiast** | ☕ **Fueled by Coffee & Pragmatism**
 
 🌏 Based in **Sydney, Australia**, where the coffee is strong, and the Wi-Fi is (mostly) reliable.  
 
